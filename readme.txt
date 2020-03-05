@@ -1,7 +1,6 @@
 === Google Map for Gutenberg Block ===
-Contributors: idesignbucket
+Contributors: Satish Pokhrel
 Tags: map, google maps, block, gutenberg, gutenberg block, gutenberg editor, google maps for gutenberg, maps for gutenberg, gutenberg maps, full width, map styles, custom marker
-Author URI: https://idesignbucket.com/
 Requires at least: 4.9
 Requires PHP: 5.2
 Tested up to: 5.0
