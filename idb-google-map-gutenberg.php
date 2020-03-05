@@ -2,8 +2,7 @@
 /**
  * Plugin Name: Google Map for Gutenberg Block
  * Description: Simple, draggable map block powered by Google Maps for Gutenberg editor.
- * Author: idesignbucket
- * Author URI: http://idesignbucket.com
+ * Author: Satish Pokhrel
  * Version: 1.0.0
  * License: GPL2+
  * License URI: https://www.gnu.org/licenses/gpl-2.0.txt
